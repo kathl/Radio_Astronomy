@@ -1,4 +1,4 @@
-# Radio_Astronomy
+# My Radio Astronomy Utilities
 This repository contains those Jupyter notebooks that are useful for HI observations. So far these are two notebooks: one that helps plan observations and one that helps to semi-automatically reduce HI observations from the Australian Telescope Compact Array (ATCA). 
 
 The notebook to plan observations shows how to make visibility plots over 24h including the sun. 
